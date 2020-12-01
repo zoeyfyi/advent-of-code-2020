@@ -1,0 +1,10 @@
+### Temp ###
+*~
+
+### Agda ###
+*.agdai
+**/MAlonzo/**
+
+### Binarys ###
+part1
+part2
